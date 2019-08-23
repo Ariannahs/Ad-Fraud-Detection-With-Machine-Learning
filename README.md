@@ -1,5 +1,5 @@
 # Ad-Anti-Fraud-Algorithm-Challenge_Classification-Predition (2019 iFLYTEK A.I. Challenge)
-#### This is a EDA for a classification prediction. For the main code and analysis, please read the HTML file.
+#### This is a EDA for a classification prediction. For the main code and analysis, please read the .ipynb file.
 
 Introduction:
 Advertising fraud is a major challenge facing digital marketing, with the maturity of basic technology (tampering device information, IPv4 service, black card, code-picking platform, etc.), advertising fraud presents a large-scale, group-based trend, its means of cheating mainly include robots, simulators, group control, chicken / back door, crowdsourcing and so on. Advertising fraud is constantly eating away at the marketing ecology, and anti-fraud has become a key issue in the field of digital marketing that needs to be broken.
