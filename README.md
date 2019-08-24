@@ -1,4 +1,5 @@
-# Ad-Anti-Fraud-Algorithm-Challenge_Classification-Predition (2019 iFLYTEK A.I. Challenge)
+# 科大讯飞移动广告反欺诈算法挑战赛EDA
+# Mobile-Ad-Anti-Fraud-Algorithm-Challenge (2019 iFLYTEK A.I. Challenge)
 #### This is a EDA for a classification prediction. For the main code and analysis, please read the .ipynb file.
 
 Introduction:
